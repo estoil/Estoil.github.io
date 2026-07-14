@@ -5,7 +5,8 @@ He is an undergraduate student in Computer Science at Peking University.
 
 #### Contact
 
-Email: 2300013217[at]stu.pku.edu.cn
+Email1: 2300013217[at]stu.pku.edu.cn \
+Email2: 1245304109@qq.com
 
 #### Education
 B.S. in Computer Science,
